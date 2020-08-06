@@ -1,0 +1,58 @@
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\bin\Debug\Software_Engineering.exe
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\bin\Debug\Software_Engineering.pdb
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\bin\Debug\Software_Engineering.xml
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.Form1.resources
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.Resources.resources
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.exe
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.xml
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.pdb
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_MainMenu.resources
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_NewUser.resources
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_Supplier.resources
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_POS.resources
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_StockIO.resources
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_manageProducts.resources
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_DamageList.resources
+C:\Users\User\Desktop\Mendi\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_Monitoring.resources
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.exe
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.xml
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.pdb
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\bin\Debug\Software_Engineering.exe
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\bin\Debug\Software_Engineering.pdb
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\bin\Debug\Software_Engineering.xml
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_DamageList.resources
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_manageProducts.resources
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_Monitoring.resources
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_NewUser.resources
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_POS.resources
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.Form1.resources
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_StockIO.resources
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_Supplier.resources
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.Resources.resources
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_Main.resources
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_Login.resources
+C:\Users\User\Downloads\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.exe
+C:\Users\User\Downloads\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.xml
+C:\Users\User\Downloads\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.pdb
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.exe
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.xml
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.pdb
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\bin\Debug\Software_Engineering.exe
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\bin\Debug\Software_Engineering.pdb
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\bin\Debug\Software_Engineering.xml
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_DamageList.resources
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_Main.resources
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_Login.resources
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_manageProducts.resources
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_Monitoring.resources
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_NewUser.resources
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_POS.resources
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.Form1.resources
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_StockIO.resources
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_Supplier.resources
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.Resources.resources
+C:\Users\User\Desktop\backup\ok from down\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Mendi - Copy\Software_Engineering\Software_Engineering\obj\x86\Debug\Software_Engineering.form_Stocks.resources
